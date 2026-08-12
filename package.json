@@ -1,0 +1,10 @@
+{
+  "name": "xygeni-sca-github-test",
+  "version": "1.0.0",
+  "description": "Minimal repository for testing Xygeni SCA PR blocking",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
